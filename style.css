@@ -1,0 +1,17 @@
+#interfaceMeteo{
+    display:none;
+}
+
+#interfaceMeteo{
+    box-shadow: 5px 5px 10px grey;
+}
+
+#triangle-code{
+    display : inline-block;
+    height : 0;
+    width : 0;
+    border-top : 25px solid transparent;
+    border-bottom : 25px solid transparent;
+    border-left : 30px solid red;
+   }
+   
